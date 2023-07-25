@@ -1,2 +1,3 @@
 Git is free software.
-Second change.
+Git has a mutable index called stage.
+Third change.
